@@ -30,7 +30,7 @@ A **left join** was used with `bmx` (body measures) as the base dataset to ensur
 
 ## How to Run
 1. Place all `.xpt` files in the `data/` folder.  
-2. Open `NHANES-Cardio.Rproj` or `R/01_analysis.R` in RStudio.  
+2. Open `.Rproj` or `.R` files in RStudio.  
 3. Run the script.  
    - Outputs (tables, figures) will be saved in `outputs/`.  
    - Table 1 is exported as `outputs/table1.csv`.
