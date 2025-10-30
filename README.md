@@ -1,4 +1,4 @@
-# NHANES-Cardiometabolic-Profiling in R
+# NHANES-Cardiometabolic-Profiling
 Analysis of NHANES data examining demographic, body measure, blood pressure, diabetes, and lipid variables to profile cardiometabolic health.
 
 
